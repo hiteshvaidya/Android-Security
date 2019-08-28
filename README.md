@@ -9,11 +9,11 @@ This part consists of a research paper that proposes the general idea of the pro
 
 ### Part-2
 This is a fuzzy implementation of the project idea. A desktop app is created for this purpose. Different parameter values must be manually entered to obtain a final security score.
-<br />**File path**: part-2 desktop app.jar**
+<br />**File path**: part-2 desktop app.jar
 
 
 ### Part-3
 In this part, a machine learning based mobile app is developed to get a security score. It uses a small feedforward neural network. The dataset required for it is manually generated. The different parameters required for calculating score are automatically retrieved by the app. This app is device agnostic and works only on android devices.
-<br />**File path**: part-3 files/security evaluation app.apk**
+<br />**File path**: part-3 files/security evaluation app.apk
 
 Contributors: @github.com/TheSarang @github.com/aayushARM
