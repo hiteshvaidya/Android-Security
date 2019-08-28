@@ -16,4 +16,4 @@ This is a fuzzy implementation of the project idea. A desktop app is created for
 In this part, a machine learning based mobile app is developed to get a security score. It uses a small feedforward neural network. The dataset required for it is manually generated. The different parameters required for calculating score are automatically retrieved by the app. This app is device agnostic and works only on android devices.
 <br />**File path**: part-3 files/security evaluation app.apk
 
-Contributors: @TheSarang @aayushARM
+Contributors: [@TheSarang](https://github.com/TheSarang) [@aayushARM](https://github.com/aayushARM)
